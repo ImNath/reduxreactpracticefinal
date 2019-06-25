@@ -1,0 +1,5 @@
+export const UPDATE_NAMEINPUT = 'UPDATE_NAMEINPUT';
+export const UPDATE_PASSINPUT = 'UPDATE_PASSINPUT';
+export const LOGIN_USER = 'LOGIN_USER';
+export const LOGOUT_USER = 'LOGOUT_USER';
+export const FETCH_USERS = 'FETCH_USERS';
